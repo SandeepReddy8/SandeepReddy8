@@ -1,7 +1,16 @@
-- 👋 Hi, I’m @SandeepReddy
-- 👀 I’m interested in codig in python...
-- 🌱 I’m currently learning java,jsp,python ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 I'm Kapu Sandeep, a data enthusiast who loves uncovering patterns, optimizing business strategies, and crafting compelling data stories. Whether it's crunching numbers, building dashboards,I thrive on making data speak! 📊✨
+
+💡 Tech Stack:
+
+📊 Data Analysis: Pandas, NumPy, Excel, SQL
+📈 Visualization: Tableau, Power BI, Matplotlib, Seaborn
+🚀 Programming: Python, SQL,HTML,CSS
+📌 What I Do:
+✅ Extract, clean & analyze large datasets to drive business impact
+✅ Create interactive dashboards & reports for data-driven storytelling
+✅ Solve real-world problems using analytics & machine learning
+
+
 - 📫 How to reach me sandeepreddy8223@gmail.com...
 
 <!---
